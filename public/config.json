@@ -2,7 +2,7 @@
   "dataApiHostName": "newapicenterforsreekanth.data.eastus.azure-apicenter.ms/workspaces/default",
   "title": "API portal",
   "authentication": {
-      "clientId": "887f3f1e-3cee-4f6a-b90b-d38488c4d1a5",
+      "clientId": "a7823726-00c5-42e8-a563-01956136322c",
       "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
       "scopes": ["https://azure-apicenter.net/user_impersonation"],
       "authority": "https://login.microsoftonline.com/"
